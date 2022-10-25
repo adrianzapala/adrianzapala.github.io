@@ -1,4 +1,5 @@
-### Hi there 👋 My name's Adrian Zapała.
+### Hi there 👋 
+My name's Adrian Zapała.
 
 I'm a computer scientist (informatics, computer engineering). I'm interested especially in programming, computer networks, number theory and cryptology. Besides this I'm interested in astronomy, cosmonautics and space engineering.
 
