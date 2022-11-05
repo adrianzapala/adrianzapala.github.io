@@ -6,6 +6,7 @@ I'm a computer scientist (informatics, computer engineering). I'm interested esp
 - computer networks,
 - number theory (prime nubers),
 - cryptology.
+
 Besides this I'm interested in:
 - astronomy,
 - space engineering.
