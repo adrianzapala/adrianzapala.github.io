@@ -1,7 +1,14 @@
 ### Hi there 👋 
 My name's **Adrian Zapała**.
 
-I'm a computer scientist (informatics, computer engineering). I'm interested especially in programming, computer networks, number theory and cryptology. Besides this I'm interested in astronomy, cosmonautics and space engineering.
+I'm a computer scientist (informatics, computer engineering). I'm interested especially in:
+- programming,
+- computer networks,
+- number theory (prime nubers),
+- cryptology.
+Besides this I'm interested in:
+- astronomy,
+- space engineering.
 
 <!--
 **adrianzapala/adrianzapala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
