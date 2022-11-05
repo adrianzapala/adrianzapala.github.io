@@ -11,8 +11,6 @@ Besides this I'm interested in:
 - astronomy,
 - space engineering.
 
-:atom: :electron:
-
 <!--
 **adrianzapala/adrianzapala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
