@@ -12,8 +12,8 @@ Besides this I'm interested in:
 - space engineering.
 
 ### Major projects
-- *MSc thesis (project)*. The use of advanced text methods to analyze the structure of the www network. [Python, Beautiful Soup, Scrappy, regex, XPath, Mersenne Twister, CSV, HTML, CSS]
-- *B.Sc.}] BSc thesis (project)*, awarded. Eob. Software for the photometry of stars with support for network communication. [Java, Swing, JFreeChart, SQLite, JavaMail]
+- *M.Sc.* MSc thesis (project)*. The use of advanced text methods to analyze the structure of the www network. [Python, Beautiful Soup, Scrappy, regex, XPath, Mersenne Twister, CSV, HTML, CSS]
+- *B.Sc.* BSc thesis (project)*, awarded. Eob. Software for the photometry of stars with support for network communication. [Java, Swing, JFreeChart, SQLite, JavaMail]
 
 
 <!--
