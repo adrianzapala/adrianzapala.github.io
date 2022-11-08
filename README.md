@@ -11,8 +11,9 @@ Besides this I'm interested in:
 - astronomy,
 - space engineering.
 
-Major projects:
-MSc thesis (project). The use of advanced text methods to analyze the structure of the www network. [Python, Beautiful Soup, Scrappy, regex, XPath, Mersenne Twister, CSV, HTML, CSS]
+### Major projects
+>
+> **MSc thesis (project)**. The use of advanced text methods to analyze the structure of the www network. [Python, Beautiful Soup, Scrappy, regex, XPath, Mersenne Twister, CSV, HTML, CSS]
 
 
 <!--
