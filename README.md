@@ -16,10 +16,10 @@ Besides this I'm interested in:
 ### Major programming projects
 - *M.Sc.* MSc thesis (project). The use of advanced text methods to analyze the structure of the www network. [Python, Beautiful Soup, Scrappy, regex, XPath, Mersenne Twister, CSV, HTML, CSS]
 - *B.Sc.* BSc thesis (project) -- awarded. Eob. Software for the photometry of stars with support for network communication. [Java, Swing, JFreeChart, SQLite, JavaMail]
-- *Benford's Law*. A window program for analyzing the distribution of digits in a specific set of prime numbers with the presentation of the results on a graph. [Python]
+- *Benford's Law*. A window program for analyzing the distribution of digits in a specific set of prime numbers with the presentation of the results on a graph. [Python, matplotlib, serialization]
 - *Ulam Spiral*. Program generating images of Ulam prime numbers spiral. [Python, Pillow]
 - *Perseverance Simulator*. Console landing simulator of the Perseverance Mars rover. [Python]
-- *AstroSymulator*. Console simulator of space rocket. [Python]
+- *AstroSimulator*. Console simulator of space rocket. [Python]
 - *Moving the rovers*. A console program that determines the route of a rover on the Martian plateau depending on the commands given by the operator from Earth. [Python]
 - *DNA*. A console program that reads data from a text file, checks the affiliation of a given DNA sequence to a specific person. [Python]
 - *algobit.pl*. An e-learning system with a large number of tasks, laboratory exercises and presentations, incl. from various programming languages and computer networks. [PHP, JavaScript, MySQL, HTML, CSS]
@@ -34,7 +34,7 @@ Besides this I'm interested in:
 - *Tails*. A program for batch renaming of files, and replacing the sequence of letters or words in the pasted text. Configuration settings read from an external file. [Java]
 - *Ortography*. A console program based on pointers that reads dictionary data from a text file (about 150,000 words) into an array where each cell is a linked list, using optimized time complexity algorithms, dynamic memory allocation and a modified Dan Bernstein's hash function. [C]
 - *Bus Stations*. Interactive map of bus stops. [Google Maps API, HTML, CSS]
-- *Bob's Treasures*. Game with a GUI interface. [Python (with OOP paradigm), pygame]
+- *Bob's Treasures*. Game with a GUI interface. [Python, pygame]
 - *FallingOfBodies*. Console simulator of free falling of bodies including air
 resistance (physics). [Python]
 - *WWW webpages*. A lot of projects for companies and institutions. [HTML5, CSS3, Bootstrap, mySQL, PHP, JavaScript, CMS: Wordpress]
