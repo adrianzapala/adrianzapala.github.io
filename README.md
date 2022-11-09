@@ -11,6 +11,8 @@ Besides this I'm interested in:
 - astronomy,
 - space engineering.
 
+🔭 I’m currently working on prime numbers theorem with programming.
+
 ### Major programming projects
 - *M.Sc.* MSc thesis (project). The use of advanced text methods to analyze the structure of the www network. [Python, Beautiful Soup, Scrappy, regex, XPath, Mersenne Twister, CSV, HTML, CSS]
 - *B.Sc.* BSc thesis (project) -- awarded. Eob. Software for the photometry of stars with support for network communication. [Java, Swing, JFreeChart, SQLite, JavaMail]
@@ -32,7 +34,7 @@ Besides this I'm interested in:
 - *Tails*. A program for batch renaming of files, and replacing the sequence of letters or words in the pasted text. Configuration settings read from an external file. [Java]
 - *Ortography*. A console program based on pointers that reads dictionary data from a text file (about 150,000 words) into an array where each cell is a linked list, using optimized time complexity algorithms, dynamic memory allocation and a modified Dan Bernstein's hash function. [C]
 - *Bus Stations*. Interactive map of bus stops. [Google Maps API, HTML, CSS]
-- *Bob's Treasures*. Game with a GUI interface. [Python (obiektowo), pygame]
+- *Bob's Treasures*. Game with a GUI interface. [Python (with OOP paradigm), pygame]
 - *FallingOfBodies*. Console simulator of free falling of bodies including air
 resistance (physics). [Python]
 - *WWW webpages*. A lot of projects for companies and institutions. [HTML5, CSS3, Bootstrap, mySQL, PHP, JavaScript, CMS: Wordpress]
@@ -53,22 +55,3 @@ resistance (physics). [Python]
 ### Publications
 
 - Lectures/exercises and sets of several hundred tasks in the following subjects: Algorithms and data structures, Electrostatics, Computer graphics, Applied graphics, History of computer science, HTML, CSS, SQL language, Mathematics, Basics of programming, Application programs, Arduino programming, Java programming, Python programming, Scratch Programming, Computer Networks, Operating Systems, Number Theory with Cryptology etc.
-
-
-
-
-
-<!--
-**adrianzapala/adrianzapala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
