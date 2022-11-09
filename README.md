@@ -24,7 +24,7 @@ Besides this I'm interested in:
 - *Perseverance Simulator*. Console landing simulator of the Perseverance Mars rover. [Python]
 - *AstroSimulator*. Console simulator of space rocket. [Python]
 - *Moving the rovers*. A console program that determines the route of a rover on the Martian plateau depending on the commands given by the operator from Earth. [Python]
-- *FallingOfBodies*. Console simulator of free falling of bodies including air
+- *Falling Of Bodies*. Console simulator of free falling of bodies including air
 resistance (physics). [Python]
 - *DNA*. A console program that reads data from a text file, checks the affiliation of a given DNA sequence to a specific person. [Python]
 - *Finances*. A web application that uses the IEX API to process financial data (share prices) from this website. [IEX API, JSON, Python, Flask, SQLite, HTML, CSS, Bootstrap]
