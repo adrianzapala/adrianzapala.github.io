@@ -1,4 +1,4 @@
-[ABOUT ME](./README.md) | [MAJOR PROGRAMMING PROJECTS](./mpp.md) | [OTHER PROJECTS](./op.md) | [PUBLICATIONS](./publications.md)
+[ABOUT ME](./README.md), [MAJOR PROGRAMMING PROJECTS](./mpp.md), [OTHER PROJECTS](./op.md), [PUBLICATIONS](./publications.md)
 
 ### Computer networks projects
 
