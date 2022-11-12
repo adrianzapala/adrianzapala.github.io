@@ -1,4 +1,4 @@
-[ABOUT ME](./README.md), [MAJOR PROGRAMMING PROJECTS](./mpp.md), [OTHER PROJECTS](./op.md), [PUBLICATIONS](./publications.md)
+[About Me](./README.md), [Major Programming Projects](./mpp.md), [Other Projects](./op.md), [Publications](./publications.md)
 
 ### Hi there 👋 
 My name's **Adrian Zapała**.
