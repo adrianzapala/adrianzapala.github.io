@@ -1,6 +1,8 @@
 ### Hi there 👋 
 My name's **Adrian Zapała**.
 
+[MAIN](./README.md)
+
 I'm a computer scientist (informatics, computer engineering). I'm interested especially in:
 - programming,
 - computer networks,
