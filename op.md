@@ -1,3 +1,5 @@
+[ABOUT ME](./README.md) | [MAJOR PROGRAMMING PROJECTS](./mpp.md) | [OTHER PROJECTS](./op.md) | [PUBLICATIONS](./publications.md)
+
 ### Computer networks projects
 
 - *ZSTiA*. Creating a laboratory from scratch with the separation of physical structures within a separate logical network (IP addressing). Installation of a 19'' 4U RACK cabinet: 24-port industrial switch (managed: HUAWEI), TP-Link industrial router, patch panel, RACK power supply. Installation of structured cabling and surface-mounted network sockets. Installation of the WiFi router. Windows Server 2019 and Ubuntu Server configuration. Administration of the created LAN IT and network infrastructure, approx. 25 hosts.
