@@ -1,0 +1,14 @@
+[About Me](./README.md) | [Major Programming Projects](./mpp.md) | [Other Projects](./op.md) | [Publications](./publications.md)
+
+### Computer networks projects
+
+- *ZSTiA*. Creating a laboratory from scratch with the separation of physical structures within a separate logical network (IP addressing). Installation of a small 19'' 4U RACK cabinet: 24-port industrial switch (managed: HUAWEI), TP-Link industrial router, patch panel, RACK power supply. Installation of structured cabling and surface-mounted network sockets. Installation of the WiFi router. Windows Server 2019 and Ubuntu Server configuration. Administration of the created LAN IT and network infrastructure, approx. 25 hosts.
+- *ZSTiA*. Creating a laboratory from scratch with the separation of physical structures within a separate logical network (IP addressing). Installation of a large 19'' 32U RACK cabinet: 24-port industrial switch (managed: HUAWEI), TP-Link industrial router, patch panel, 24-port industrial switch (managed: CISCO), 10-port industrial switch (managed: CISCO), CISCO router, patch panel, another TP-Link industrial router, 8-port TP-Link switch, RACK power supply. Installation of structured cabling and surface-mounted network sockets. Windows Server 2019 and Ubuntu Server configuration. Administration of the created LAN IT and network infrastructure.
+- *ZSM*. Creation of 2 laboratories with separation of physical structures within separate logical networks (IP addressing). Administration of the created LAN IT and network infrastructure: structured cabling with subscriber points (network sockets), 2 RACK 19'' 4U cabinets, 2 24-port industrial switches (managed: Netgear 350 Series), MikroTik CCR 1016 industrial router, approx. 40 hosts.
+- *SP4*. Creation of 2 laboratories with separation of physical structures within one logical network (IP addressing) + IP addressing within a separate Wi-Fi network. Administration of the created LAN and WLAN IT infrastructure: structured cabling with subscriber points (network sockets), 2 RACK 19 '' 4U cabinets, 3 24-port industrial switches (managed: Cisco 500 Catalyst Express, unmanaged: HP procurve 2324, D -Link), WiFi router, Triumph-Adler DC 2018 network printer (machine), approx. 30 hosts.
+- *Smart Home*. Creation of a smart home system based on private IP addressing and LAN and WLAN network solutions: structured cabling, RACK 10 '' 4U cabinet, 1 switch 8-port (managed: TP-Link), WiFi router, network printer, IP camera, weather station based on Raspberry Pi + Python scripts, several LAN and WLAN hosts.
+
+### Computer graphics projects, DTP
+
+- *Computer Graphics, DTP*. Posters, invitations, flyers, etc. Lots of projects.
+- *BoSz Publishing House*. DTP of ,,1000 museums in Poland, Guide''. [Adobe InDesign, Photoshop]
