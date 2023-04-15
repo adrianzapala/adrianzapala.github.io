@@ -13,7 +13,7 @@
 - *DNA*. A console program that reads data from a text file, checks the affiliation of a given DNA sequence to a specific person. [Python]
 - *Finances*. A web application that uses the IEX API to process financial data (share prices) from this website. [IEX API, JSON, Python, Flask, SQLite, HTML, CSS, Bootstrap]
 - *Mars Laboratory*. Web application using the NASA Jet Propulsion Laboratory & Cornell University API, incl. processing data coming directly from the InSight lander and regarding the current weather on Mars (Elysium Planitia region), i.e. average, minimum, maximum and average wind speed, and the number of temperature samples taken on a given Martian day (SOL). [NASA JPL API, JSON, Python, Flask, matplotlib, SQLite, HTML, CSS, Bootstrap]
-- *Server Room*. A web application that allows you to manage equipment in a server room. [Python, Django, HTML, CSS]
+- *Server Room*. A web application that allows network engineer to manage equipment in a server room. [Python, Django, HTML, CSS]
 - *Mars Lander*. Game with a GUI interface. [Python, pygame, pygame zero]
 - *Bob's Treasures*. Game with a GUI interface. [Python, pygame]
 - *Meteors*. Game with a GUI interface. [Python, tkinter]
