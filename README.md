@@ -15,4 +15,4 @@ Besides this I'm interested in:
 
 🔭 I’m currently working on prime numbers theorem with programming.
 
-Some of my GitHub repositories: [github.com/adrianzapala] (https://github.com/adrianzapala)
+Some of my GitHub repositories: [github.com/adrianzapala](https://github.com/adrianzapala)
