@@ -6,4 +6,4 @@
 - *M.Sc. (mgr)* Environmental Sciences [Catholic University in Lublin]
 - *Postgraduate.* Mathematics with Computer Science [University of Marie-Curie Skłodowska in Lublin]
 - *Postgraduate.* Chemistry [University of Marie-Curie Skłodowska in Lublin]
-- *Postgraduate.* Pedagogy [Catholic University in Lublin]
+- *Postgraduate.* Pedagogical Preparation [Catholic University in Lublin]
