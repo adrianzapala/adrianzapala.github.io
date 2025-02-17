@@ -1,4 +1,4 @@
-[About Me](./README.md) | [Major Programming Projects](./mpp.md) | [Other Projects](./op.md) | [Publications](./publications.md)
+[About Me](./README.md) | [Education](./education.md) | [Major Programming Projects](./mpp.md) | [Other Projects](./op.md) | [Publications](./publications.md)
 
 ### Major programming projects
 - *M.Sc.* MSc thesis (project). The use of advanced text methods to analyze the structure of the www network. [Python, Beautiful Soup, Scrappy, regex, XPath, Mersenne Twister, CSV, HTML, CSS]
