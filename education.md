@@ -1,6 +1,6 @@
 [About Me](./README.md) | [Education](./education.md) | [Major Programming Projects](./mpp.md) | [Other Projects](./op.md) | [Publications](./publications.md)
 
-### Major programming projects
+### Education
 - *M.Sc.* Computer Science [Technical University in Rzeszów]
 - *B.Sc.* Computer Science [State University of Applied Sciences in Krosno]
 - *M.Sc.* Environmental Sciences [Catholic University in Lublin]
