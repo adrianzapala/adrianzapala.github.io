@@ -7,4 +7,4 @@
 - *Postgraduate* Mathematics with Computer Science [University of Marie-Curie Skłodowska in Lublin]
 - *Postgraduate* Chemistry [University of Marie-Curie Skłodowska in Lublin]
 - *Postgraduate* Pedagogical Preparation [Catholic University in Lublin]
-- *Course*. CS50x: CS50's Introduction to Computer Science [HarvardX, Harvard University]
+- *Course* CS50x: CS50's Introduction to Computer Science [HarvardX, Harvard University]
