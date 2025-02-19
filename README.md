@@ -1,11 +1,12 @@
 [About Me](./README.md) | [Education](./education.md) | [Major Programming Projects](./mpp.md) | [Other Projects](./op.md) | [Publications](./publications.md)
 
-#### When <em>O</em>(1) seems to be a pure stochastic term, I look for <em>O</em>(log <em>n</em>). 👨🏻‍💻</>
+#### When <em>O</em>(1) seems to be a pure stochastic term, I look for <em>O</em>(log <em>n</em>). 👨🏻‍💻
  
 My name's **Adrian Zapała**.
 
 I'm a computer scientist (informatics, computer engineering).
 
+Skills:
 - Documentation: LaTeX/Markdown.
 - Programming Tech Stack: Python (+ numpy, matplotlib, pygame), PHP, JavaScript, SQL (MySQL dialect), Arduino, Git, Algorithms and Data Structures.
 - Networking Tech Stack: Cisco, IPv4 (incl. IP Address Subnetting), IPv6, Port Security, VLAN, trunk, VTP, STP, routing (static, RIP, OSPF), ACL, NAT, DHCP, DNS, Cisco Packet Tracer, Wireshark.
