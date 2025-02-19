@@ -9,7 +9,7 @@
 - *Postgraduate* Pedagogical Preparation [Catholic University in Lublin]
 
 ### Courses
-- CS50x: CS50's Introduction to Computer Science [HarvardX, Harvard University]
+- CS50x: CS50's Introduction to Computer Science [Harvard University]
 - Interfacing with the Arduino [University of California, Irvine]
 - DEV276x: Learn to Program in Java [Microsoft]
 - Data8.1x: Foundations of Data Science: Computational Thinking with Python [University of California, Berkeley]
