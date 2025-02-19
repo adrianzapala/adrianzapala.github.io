@@ -7,6 +7,7 @@
 - *Postgraduate* Mathematics with Computer Science [University of Marie-Curie Skłodowska in Lublin]
 - *Postgraduate* Chemistry [University of Marie-Curie Skłodowska in Lublin]
 - *Postgraduate* Pedagogical Preparation [Catholic University in Lublin]
+
 ### Courses
 - CS50x: CS50's Introduction to Computer Science [HarvardX, Harvard University]
 - Interfacing with the Arduino [University of California, Irvine]
