@@ -1,8 +1,6 @@
 [About Me](./README.md) | [Education](./education.md) | [Major Programming Projects](./mpp.md) | [Other Projects](./op.md) | [Publications](./publications.md)
 
 #### When <em>O</em>(1) seems to be a pure stochastic term, I look for <em>O</em>(log <em>n</em>). 👨🏻‍💻
- 
-My name's **Adrian Zapała**.
 
 I'm a computer scientist (informatics, computer engineering).
 
@@ -14,5 +12,5 @@ Skills:
 
 More about my programming and networking skills you'll find here:
 - [adrianzapala.github.io](http://adrianzapala.github.io). Some of my GitHub repositories: [github.com/adrianzapala](https://github.com/adrianzapala).
-- [pypi.org/project/aznt](http://pypi.org/project/aznt).
-- [Lab.algobit.pl](http://Lab.algobit.pl).
+- [pypi.org/project/aznt](http://pypi.org/project/aznt). Number theory Python package.
+- [lab.algobit.pl](http://lab.algobit.pl). Ebooks, laboratory instructions and other computer science stuff.

@@ -20,5 +20,6 @@
 - Using Python to Access Web Data [University of Michigan] - 6 weeks
 - Python Data Structures [University of Michigan] - 7 weeks
 - Getting Started with Python [University of Michigan] - 7 weeks
+- Academy Orientation [Cisco Networking Academy]
 - CCNA Routing & Switching [State University of Applied Sciences in Krosno]
 - Adobe InDesign CS3 certificate [eduZETO]
